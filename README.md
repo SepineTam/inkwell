@@ -2,7 +2,7 @@
 Prompt Engineer for myself
 
 [![en](https://img.shields.io/badge/lang-English-red.svg)](README.md)
-[![cn](https://img.shields.io/badge/语言-中文-yellow.svg)](docs/README/README_zh.md)
+[![cn](https://img.shields.io/badge/语言-中文-yellow.svg)](docs/README/zh/README.md)
 [![Issue](https://img.shields.io/badge/Issue-report-green.svg)](https://github.com/sepinetam/inkwell/issues/new)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-0.0.1-green.svg)
@@ -31,6 +31,6 @@ git clone https://github.com/sepinetam/inkwell.git
 
 If you have any feature requests or bugs to report, please feel free to [open an issue](https://github.com/sepinetam/inkwell/issues/new).
 
-## 📄 License
+# 📄 License
 
 MIT License - see the [LICENSE](LICENSE) file for details

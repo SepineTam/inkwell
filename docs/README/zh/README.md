@@ -1,8 +1,8 @@
 # inkwell
 自用的prompt工程
 
-[![en](https://img.shields.io/badge/lang-English-red.svg)](../../README.md)
-[![cn](https://img.shields.io/badge/语言-中文-yellow.svg)](README_zh.md)
+[![en](https://img.shields.io/badge/lang-English-red.svg)](../../../README.md)
+[![cn](https://img.shields.io/badge/语言-中文-yellow.svg)](README.md)
 [![Issue](https://img.shields.io/badge/Issue-report-green.svg)](https://github.com/sepinetam/inkwell/issues/new)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-0.0.1-green.svg)
@@ -31,6 +31,6 @@ git clone https://github.com/sepinetam/inkwell.git
 
 如果您有任何功能需求或发现了 bug，欢迎[提交 issue](https://github.com/sepinetam/inkwell/issues/new)。
 
-## 📄 开源许可
+# 📄 开源许可
 
 本项目基于 MIT 协议开源 - 查看 [LICENSE](LICENSE) 获取详细信息
