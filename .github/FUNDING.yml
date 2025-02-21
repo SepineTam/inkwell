@@ -1,8 +1,5 @@
-# 支持的资助平台配置
-github: [sepinetam]  # GitHub Sponsors
+github: sepinetam
 custom: 
-  - https://sepinetam.github.io/donate/ # default
-  - https://sepinetam.github.io/donate/img-donate/AliPay.jpg  # AliPay
-  - https://sepinetam.github.io/donate/img-donate/WeChatPay.jpg # WeChat
-  # - https://afdian.net/你的用户名  # 爱发电链接（中国用户常用）
-  
+  - "https://sepinetam.github.io/donate/"
+  - "https://sepinetam.github.io/donate/img-donate/AliPay.jpg"
+  - "https://sepinetam.github.io/donate/img-donate/WeChatPay.jpg"
